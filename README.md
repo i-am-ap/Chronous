@@ -116,17 +116,20 @@ task-manager-app/
 
 ### Mobile
 
-👉 <img width="367" height="803" alt="image" src="https://github.com/user-attachments/assets/cb3140d6-d892-4452-b310-ac2b4d62f094" />
+👇 
+<img width="367" height="803" alt="image" src="https://github.com/user-attachments/assets/cb3140d6-d892-4452-b310-ac2b4d62f094" />
 
 
 ### Tablet
 
-👉 <img width="476" height="632" alt="image" src="https://github.com/user-attachments/assets/03a7f1ac-e9ad-4252-83b9-89cb7dce7f32" />
+👇
+<img width="476" height="632" alt="image" src="https://github.com/user-attachments/assets/03a7f1ac-e9ad-4252-83b9-89cb7dce7f32" />
 
 
 ### Laptop
 
-👉 <img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/0fb4fbc4-1e85-4675-86e4-54235dd1ddad" />
+👇 
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/0fb4fbc4-1e85-4675-86e4-54235dd1ddad" />
 
 
 ---
