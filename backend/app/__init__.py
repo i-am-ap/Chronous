@@ -10,7 +10,7 @@ def create_app(test_config=None):
     app = Flask(__name__)
     app.config.from_object('app.config.Config')
 
-    CORS(app)  # enable CORS globally
+    CORS(app, origins=["https://chronous-2649.vercel.app"])  # enable CORS globally
 
     db.init_app(app)
     migrate.init_app(app, db) # initialize migrate here
