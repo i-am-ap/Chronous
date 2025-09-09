@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Programming\Python_Projects\Flask\Crud_api_app\backend\venv"
+VIRTUAL_ENV="C:\Programming\Python_Projects\Flask\Chronous\backend\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
