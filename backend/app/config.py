@@ -1,0 +1,7 @@
+import os
+
+class Config:
+    BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL') or 'sqlite:///../data.db'
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+    TESTING = False
