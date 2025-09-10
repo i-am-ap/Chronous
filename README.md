@@ -97,8 +97,8 @@ task-manager-app/
 
 ## 🌍 Deployment
 
-* **Frontend** → [Vercel](https://vercel.com/)
-* **Backend** → [Railway](https://railway.app/)
+* **Frontend** → [Vercel](https://chronous-2649.vercel.app)
+* **Backend** → [Railway](https://chronous-production.up.railway.app)
 
 ---
 
