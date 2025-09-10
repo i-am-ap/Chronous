@@ -108,7 +108,6 @@ Turn it into an **app on your device**, get **offline capabilities**, and enjoy 
 
 💡 **Try it now:** After deploying, open Chronous in Chrome/Edge, tap the install icon in the address bar, and enjoy a seamless PWA experience!
 
----
 
 
 ---
