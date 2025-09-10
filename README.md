@@ -95,6 +95,24 @@ task-manager-app/
 
 ---
 
+## 🌐 Progressive Web App (PWA) Support
+
+Chronous isn’t just a web app — it’s a **full-fledged installable experience**! 🚀  
+Turn it into an **app on your device**, get **offline capabilities**, and enjoy **native app-like performance**.
+
+- 📲 **Installable:** Add Chronous to your home screen with just a tap.
+- ⚡ **Fast & Reliable:** Loads instantly thanks to service workers and caching.
+- 🌐 **Offline Mode:** Access tasks, comments, and UI even without an internet connection.
+- 🎨 **Responsive Design Everywhere:** Mobile, tablet, or laptop — looks perfect anywhere.
+- 🔔 **Push Notifications Ready:** Can notify you about task updates (future improvement!).
+
+💡 **Try it now:** After deploying, open Chronous in Chrome/Edge, tap the install icon in the address bar, and enjoy a seamless PWA experience!
+
+---
+
+
+---
+
 ## 🌍 Deployment
 
 * **Frontend** → [Vercel](https://chronous-2649.vercel.app)
