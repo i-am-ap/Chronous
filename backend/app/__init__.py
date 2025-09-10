@@ -10,18 +10,6 @@ def create_app(test_config=None):
     app = Flask(__name__)
     app.config.from_object('app.config.Config')
 
-    # Set up CORS with specific origins
-    # CORS(app, resources={r"/api/*": {"origins": [
-    # "http://localhost:5173",
-    # "https://chronous-2649.vercel.app"
-    # ]}})
-
-    # CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins for simplicity; adjust in production
-
-    # api = Blueprint("api", __name__, url_prefix="/api")
-
-    # Allow all origins (for now)
-    # CORS(app, resources={r"/api/*": {"origins": "*"}})   # <-- add this
     CORS(app)
 
     db.init_app(app)

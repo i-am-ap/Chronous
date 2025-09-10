@@ -13,10 +13,6 @@ export default function App() {
   const [editCommentId, setEditCommentId] = useState(null);
   const [filter, setFilter] = useState("all"); // "all", "completed", "incomplete"
 
-
-  // const API_URL = process.env.REACT_APP_API_URL || "http://127.0.0.1:5000/api";
-  // const API_URL = "https://chronous-production.up.railway.app"
-
   const API_URL = import.meta.env.VITE_API_URL;
   console.log("API URL:", API_URL);
 
