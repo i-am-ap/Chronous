@@ -95,3 +95,6 @@ def update_task(task_id):
     return jsonify(t.to_dict()), 200
 
 
+@api.route("/ping")
+def ping():
+    return {"msg": "pong!"}
